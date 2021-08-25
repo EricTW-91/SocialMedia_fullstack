@@ -1,0 +1,6 @@
+[submodule "SocialMedia_frontend"]
+	path = SocialMedia_frontend
+	url = https://github.com/EricTW-91/SocialMedia_frontend.git
+[submodule "SocialMedia_backend"]
+	path = SocialMedia_backend
+	url = https://github.com/EricTW-91/SocialMedia_backend.git
